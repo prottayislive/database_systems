@@ -2,12 +2,12 @@
 University Database Systems Course Materials
 
 Sequence:
-    - start with Introduction
-    - Complete RM topics
-    - complete SQL topics
-    - start with ER-1 and ER-2
-    - start Relational DB design
-    - finish with Normalize
+    1. start with Introduction
+    2. Complete RM topics
+    3. complete SQL topics
+    4. start with ER-1 and ER-2
+    5. start Relational DB design
+    6. finish with Normalize
     
    Book :
         A First Course in Database Systems by Jeffrey D. Ullam (PEARSON)
